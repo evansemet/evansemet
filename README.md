@@ -3,6 +3,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:evancsemet@gmail.com"><img src="gmaillogo.webp" width="40" height="40"></a>
 </p>
+
 <p align="center">
-<img src="https://profile-counter.glitch.me/evansemet/count.svg" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=evansemet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+    <img src="https://profile-counter.glitch.me/evansemet/count.svg" /> 
+</p>
+
