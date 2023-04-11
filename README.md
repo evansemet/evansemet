@@ -5,7 +5,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://evilpegasus.github.io/" target="_blank"><img src="assets/website.png" width="40" height="40"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:evancsemet@gmail.com"><img src="gmaillogo.jpeg" width="40" height="40"></a>
+    <a href="mailto:evancsemet@gmail.com"><img src="gmaillogo.webp" width="40" height="40"></a>
 </p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/evansemet/count.svg" /> 
