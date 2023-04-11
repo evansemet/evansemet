@@ -1,10 +1,13 @@
-# Hello, I'm Evan 👋
+<p align="center">
+    <a href="https://www.instagram.com/evansemet/" target="_blank"><img src="assets/instagram.png" width="40" height="40"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/evansemet/" target="_blank"><img src="assets/linkedin.png" width="40" height="40"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/evansemet" target="_blank"><img src="assets/github.png" width="40" height="40"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://evilpegasus.github.io/" target="_blank"><img src="assets/website.png" width="40" height="40"></a>
+</p>
 
-<a href="https://www.linkedin.com/company/linkedin/" target="_blank"><img src="https://raw.githubusercontent.com/evansemet/evansemet/main/assets/linkedin-logo.png" alt="LinkedIn" width="50"></a>
-
-
-[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evansemet)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact Me
-
-- 📫 How to reach me: evancsemet@gmail.com
+<p align="center">
+<img src="https://profile-counter.glitch.me/evansemet/count.svg" /> 
+</p>
