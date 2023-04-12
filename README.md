@@ -13,7 +13,7 @@
 </p>
 
 
-# Allow me to Introduce Myself
+# Allow Me To Introduce Myself
 
 I'm a current undergrad studying computer science, economics, and mathematics at Vanderbilt University in Nashville, Tennessee. 
 
