@@ -20,5 +20,3 @@ I'm a current undergrad studying computer science, economics, and mathematics at
 I utilize code to explore concepts and probelms that I find interesting. At the end of 2021, I started 'puzzling' by doing the monthly Jane Street Puzzle- feel free to check out my repo to see some of my coded solutions. I just recently discovered Project Euler and have been working through those problems in my free time- starting with the 5-20% ones and working my way up to being able to do the most recent ones released.
 
 I've grown to love algorithms and hope to start competing in CodeForces competitions by the end of the year once I feel confident enough in my ability to reach Div I. To practice, I've been systematically working through (and studying) the CSES tasks which I hope to have fully gone through before the start of the summer.
-
-Professionally, I'm interested in quantitative research and/or trading. I'm still not sure if a low/mid-frequency or pure HFT environment suits me more, but hopefully I will be able to have a better sense by the time I graduate!
