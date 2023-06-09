@@ -20,6 +20,7 @@ I'm a current undergrad studying computer science, economics, and mathematics at
 I utilize code to explore concepts and probelms that I find interesting. At the end of 2021, I started 'puzzling' by doing the monthly Jane Street Puzzle- feel free to check out my repo to see some of my coded solutions. Since then, I've began to do IBM Ponder This and have been working through the Project Euler problems in my free time- starting with the 5-20% ones and working my way up to being able to do the most recent ones released.
 
 
+
 ### Languages & Technologies
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=For-the-badge&logo=c%2B%2B&logoColor=white" />
